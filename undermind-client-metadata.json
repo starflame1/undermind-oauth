@@ -2,7 +2,7 @@
   "client_id": "https://starflame1.github.io/undermind-oauth/undermind-client-metadata.json",
   "client_name": "DeepSeek Harness",
   "redirect_uris": [
-    "http://127.0.0.1:8799/callback"
+    "http://localhost:20608/oauth/callback"
   ],
   "grant_types": [
     "authorization_code",
